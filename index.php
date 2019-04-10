@@ -147,7 +147,7 @@
                         <p class="home-cs-description">Employs an HR consultant.</p>
                         <p class="home-cs-description">Little Turnover. Makes use of contract
                             and permanent staff.Dismisses for incompetence.</p>
-                        <p class="home-cs-description"> No training. End of year bonus. Pays
+                        <p class="home-cs-description">No training. End of year bonus. Pays
                             based on industry average. Gives even allowance.</p>
                     </div>
                     <div class="home-cs-white-box"></div>
@@ -164,7 +164,7 @@
                         <h6 class="case-study-title"><strong>Strategy</strong></h6><img src="img/work.jpg"
                             class="home-cs-mobile-image" />
                         <p class="home-cs-description">To surpass clients expectationTo be a one stop for event
-                            centerTargets all customer segment.</p>
+                            center. Targets all customer segment.</p>
                     </div>
                     <div class="home-cs-white-box"></div>
                 </div>
