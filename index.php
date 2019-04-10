@@ -163,8 +163,8 @@
                         <h4 class="home-cs-client">Strategy</h4>
                         <h6 class="case-study-title"><strong>Strategy</strong></h6><img src="img/work.jpg"
                             class="home-cs-mobile-image" />
-                        <p class="home-cs-description">To surpass clients expectationTo be a one stop for event
-                            center. Targets all customer segment.</p>
+                        <p class="home-cs-description">To surpass clients expectation.<br/>To be a one stop for event
+                            center.<br/>Targets all customer segment.</p>
                     </div>
                     <div class="home-cs-white-box"></div>
                 </div>
@@ -178,12 +178,11 @@
                         <h4 class="home-cs-client">Management</h4>
                         <h6 class="case-study-title"><strong>Management</strong></h6><img src="img/work.jpg"
                             class="home-cs-mobile-image" />
-                        <p class="home-cs-description">Studied law. Started business in 2008</p>
+                        <p class="home-cs-description">Studied law. Started business in 2008.</p>
                     </div>
                     <div class="home-cs-white-box"></div>
                 </div>
-                <div class="home-cs-image-wrapper"><img src="img/work.jpg" width="400" alt="" class="home-cs-image" />
-                </div>
+                <div class="home-cs-image-wrapper"><img src="img/work.jpg" width="400" alt="" class="home-cs-image"/></div>
             </a>
             <div class="home-cs bottom-link">
                 <div class="home-cs-box-holder bottom">
@@ -200,16 +199,16 @@
             <div class="table-row">
                 <div class="table-cell year"></div>
                 <div class="table-cell client">Ifedolapo Abijo-Peters</div>
-                <div class="table-cell work">@lbs.net.ng</div>
+                <div class="table-cell work">ifedolapo.abijo-peters@lbs.net.ng</div>
             </div>
             <div class="table-row">
                 <div class="table-cell year"></div>
                 <div class="table-cell client">Chinevu Amadi</div>
-                <div class="table-cell work">@lbs.net.ng</div>
+                <div class="table-cell work">chinevu.amadi@lbs.net.ng</div>
             </div>
             <div class="table-row">
                 <div class="table-cell year"></div>
-                <div class="table-cell client">Chriatiana Oluwatosin Yadeka</div>
+                <div class="table-cell client">Christiana Oluwatosin Yadeka</div>
                 <div class="table-cell work">christiana.yadeka@lbs.net.ng</div>
             </div>
         </div>
