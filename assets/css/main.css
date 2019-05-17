@@ -10289,13 +10289,13 @@ body[data-aos-easing=outexpo] [data-aos] {
 }
 
 .cb-preview-bg {
-    height: 100%;
+    height: 500px;
     width: 100%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: cover;
+    background-size: 600px 400px;
     background-repeat: no-repeat;
-    background-position: center center
+    background-position: center center;
 }
 
 .cb-preview-embedded {
